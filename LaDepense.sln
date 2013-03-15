@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaDepense", "LaDepense\LaDepense.csproj", "{00FFF209-D0DA-4970-974E-30491208A96B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaDepense.Tests", "LaDepense.Tests\LaDepense.Tests.csproj", "{07443DA1-765C-479C-89C7-49531257F922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FFF209-D0DA-4970-974E-30491208A96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FFF209-D0DA-4970-974E-30491208A96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FFF209-D0DA-4970-974E-30491208A96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FFF209-D0DA-4970-974E-30491208A96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07443DA1-765C-479C-89C7-49531257F922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07443DA1-765C-479C-89C7-49531257F922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07443DA1-765C-479C-89C7-49531257F922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07443DA1-765C-479C-89C7-49531257F922}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
